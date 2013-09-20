@@ -1,0 +1,10 @@
+[color]
+	ui = auto
+[user]
+	name = Pablo Fernandez
+	email = fernandezpablo85@gmail.com
+[alias]
+	x = log --graph --decorate --abbrev-commit --all --pretty=format:\"%C(yellow)%h %Cred%cr %Cblue(%an)%C(white)%d%Creset %s\"
+	st = status --short
+  dc = diff --cached
+
